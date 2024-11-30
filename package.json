@@ -20,7 +20,7 @@
     },
     "homepage": "https://github.com/CamielJalink/Advent-of-Code-2022#readme",
     "dependencies": {
-        "@types/node": "^18.18.13",
+        "@types/node": "^20.17.9",
         "@typescript-eslint/eslint-plugin": "^5.62.0",
         "@typescript-eslint/parser": "^5.62.0",
         "eslint": "^8.54.0",
